@@ -1,0 +1,10 @@
+streamlit
+folium
+streamlit-folium
+pymongo
+numpy
+scipy
+matplotlib
+branca
+plotly
+pandas
